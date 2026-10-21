@@ -21,13 +21,13 @@ This project uses a course dataset of 500 observations containing age, education
 
 ### Visualization 1: Education Distribution
 
-!\[Education distribution treemap](https://raw.githubusercontent.com/ElfridaMC642/data-science-project/main/education\_treemap.png)
+![Education distribution treemap](https://raw.githubusercontent.com/ElfridaMC642/Data-Science-Project/main/education_treemap.png)
 
 The treemap shows the relative size of each education category. In this dataset, **Bachelor's degree or higher** is the largest group, with 237 out of 500 observations (**47.4%**).
 
 ### Visualization 2: Salary and Weekly Working Hours
 
-!\[Salary and working hours violin plots](https://raw.githubusercontent.com/ElfridaMC642/data-science-project/main/salary\_hours\_violin\_plots.png)
+![Salary and working hours violin plots](https://raw.githubusercontent.com/ElfridaMC642/Data-Science-Project/main/salary_hours_violin_plots.png)
 
 The two violin plots compare annual salary and weekly working-hour distributions across education levels for individuals **younger than 65**. These plots show differences and variation across groups but do not establish a causal relationship.
 
@@ -37,7 +37,7 @@ Education groups are represented unevenly in the dataset. The violin plots help 
 
 ### View the Full Project
 
-[Explore the Python notebook, analysis, and documentation on GitHub]([https://github.com/ElfridaMC642/Data-Science-Project])
+[Explore the Python notebook, analysis, and documentation on GitHub](https://github.com/ElfridaMC642/Data-Science-Project)
 
 **Project status:** Completed for a course visualization activity; documentation and dataset-sharing permissions are being reviewed.
 

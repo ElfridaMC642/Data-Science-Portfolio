@@ -37,7 +37,7 @@ Education groups are represented unevenly in the dataset. The violin plots help 
 
 ### View the Full Project
 
-[Explore the Python notebook, analysis, and documentation on GitHub](https://github.com/ElfridaMC642/Data-Science-Project)
+[Explore the Python notebook, analysis, and documentation on GitHub]([https://github.com/ElfridaMC642/Data-Science-Project])
 
 **Project status:** Completed for a course visualization activity; documentation and dataset-sharing permissions are being reviewed.
 
